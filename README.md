@@ -41,11 +41,7 @@
 ## Installation
 
 ### Prerequisites
-- **Android Studio**: Make sure you have Android Studio installed on your development machine.
-- **Android SDK**: Install the necessary SDK packages for building and running the app.
+- **Google Playstore**
 
-### Steps
-1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/yourusername/Board2PDF.git
+
